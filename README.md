@@ -1,2 +1,2 @@
 # Probability_Theory
-Probability_Theory
+SKKU_Probability_Theory
